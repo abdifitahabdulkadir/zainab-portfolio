@@ -25,7 +25,9 @@ export function HeroNameHightLight() {
         <p className="text-[1rem] font-[400] text-whtie">Hey</p>
 
         <div className="relative bg-clip-text text-transparent bg-no-repeat bg-gradient-to-r from-purple-500 via-violet-500 to-pink-500 py-4">
-          <h1 className="text-4xl font-bold">I&rsquo;m Zainab Ahmed</h1>
+          <h1 className="text-4xl font-bold text-center">
+            I&rsquo;m Zainab Ahmed
+          </h1>
         </div>
 
         <Highlight className="text-black opacity-80 dark:text-white">

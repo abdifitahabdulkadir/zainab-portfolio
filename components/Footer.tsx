@@ -10,7 +10,7 @@ export default function Footer() {
         </p>
         <p className="flex gap-x-2 items-center justify-center text-xs text-white/40">
           <TbCopyrightFilled />
-          <span>|</span> <span>Zainab Ahemd | 2024</span>
+          <span>|</span> <span>Zainab Ahmed | 2024</span>
         </p>
       </div>
     </section>

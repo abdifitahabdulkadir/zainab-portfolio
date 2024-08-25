@@ -6,7 +6,7 @@ export default function About() {
   return (
     <div
       id="about"
-      className="flex z-50 items-center mt-10 px-5 gap-x-10 mx-auto flex-col lg:flex-row justify-center  gap-y-10  max-w-[60rem]"
+      className="flex w-full max-h-fit z-50 items-center mt-10 px-5 gap-x-10 mx-auto flex-col lg:flex-row justify-center  gap-y-10  max-w-[60rem]"
     >
       <motion.div
         initial={{

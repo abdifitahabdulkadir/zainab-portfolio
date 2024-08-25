@@ -15,10 +15,10 @@ export default function Hero() {
           scale: scaleTransfrom,
           transition: "all .2s",
         }}
-        className="flex  min-h-[30rem] max-h-full  relative z-50 flex-col max-w-4xl mx-auto items-center py-10
-     justify-center"
+        className="flex relative gap-y-6 z-50 flex-col max-w-4xl mx-auto items-center 
+     justify-center "
       >
-        <div className="max-w-5xl  w-[17rem] h-[17rem] mb-10 gradientBgColor rounded-full p-10 projectItemDropShadow">
+        <div className="max-w-5xl  w-[13rem] md:w-[17rem] md:h-[17rem]  h-[13rem] mb-10 lg:mb-5 gradientBgColor rounded-full p-5 projectItemDropShadow">
           <Image
             src="/planint.svg"
             width={100}

@@ -6,7 +6,7 @@ import { HeroHighlight, Highlight } from "./ui/HeroTextHighlight";
 
 export function HeroNameHightLight() {
   return (
-    <HeroHighlight>
+    <HeroHighlight className="mt-[30px] h-fit ">
       <motion.h1
         initial={{
           opacity: 0,
@@ -20,7 +20,7 @@ export function HeroNameHightLight() {
           duration: 0.5,
           ease: [0.4, 0.0, 0.2, 1],
         }}
-        className="flex flex-col gap-y-2 w-full lg:mx-auto md:w-[30rem] items-center  text-left justify-center pt-2 pb-4 "
+        className="flex flex-col gap-y-2 w-full h-[40rem] lg:mx-auto md:w-[30rem] items-center  text-left justify-center pt-2 pb-4 "
       >
         <p className="text-[1rem] font-[400] text-whtie">Hey</p>
 

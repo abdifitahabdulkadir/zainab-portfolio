@@ -53,7 +53,7 @@ export function NavBar() {
     },
   ];
   return (
-    <div className="flex items-center justify-center z-[1000] sticky top-2  h-[5rem]   w-full">
+    <div className="flex items-center  justify-center z-[1000]  relative w-full">
       <FloatingDock items={links} desktopClassName="w-fit " />
     </div>
   );

@@ -2,6 +2,7 @@ export async function downloadResume() {
   try {
     const response = await fetch("/api");
     if (!response.ok) {
+      console.log(response);
       return;
     }
 

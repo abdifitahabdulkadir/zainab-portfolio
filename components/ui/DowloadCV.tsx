@@ -4,7 +4,7 @@ export default function DowloadCV() {
   return (
     <a
       href="/assets/zaynab.pdf"
-      download={"zainab-resume.pdf"}
+      download={"zainab-resume"}
       target="_blank"
       rel="noopener noreferrer"
     >

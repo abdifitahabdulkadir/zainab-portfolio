@@ -1,7 +1,8 @@
 
 # Minimalist Shadow Personalized Portfolio
 
-<img src="https://github.com/abdifitahabdulkadir/easymart/blob/d9a3910052675b9b745ab0c1a8e1eab2bf905e8c/bg.png" alt="easymart image" style="width: 100%; height: 500px; margin: 20px auto; display: block;" />
+<img src="https://github.com/abdifitahabdulkadir/zainab-portfolio/blob/f34ebab9e51de42657e4b1e00b4c808bb0d5759a/mockup.png" alt="Portfolio Mockup" width="100%" height="500px" />
+
 
 ## 📝 Description
 Step into a world of clean design and subtle animations with Minimalist Shadow. This personalized portfolio blends simplicity with sophistication, showcasing my web development skills through sleek interfaces and dynamic visuals. Explore projects that highlight modern aesthetics and seamless functionality.
